@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0162-find-peak-element) |
 ## Stack
 |  |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
