@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
