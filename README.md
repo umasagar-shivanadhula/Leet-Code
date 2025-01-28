@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0162-find-peak-element) |
 ## Backtracking
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0162-find-peak-element) |
 ## Stack
