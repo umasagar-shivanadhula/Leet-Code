@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0022-generate-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0022-generate-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
