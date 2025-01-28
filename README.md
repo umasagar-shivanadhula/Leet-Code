@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0001-two-sum) |
 | [0051-n-queens](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0162-find-peak-element) |
 ## Backtracking
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0201-bitwise-and-of-numbers-range](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0201-bitwise-and-of-numbers-range) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
