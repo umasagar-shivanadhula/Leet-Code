@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
@@ -98,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0018-4sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
