@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0162-find-peak-element) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0037-sudoku-solver) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
