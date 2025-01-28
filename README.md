@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0051-n-queens](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0162-find-peak-element) |
 ## Backtracking
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0010-regular-expression-matching) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
