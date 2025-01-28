@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0094-binary-tree-inorder-traversal) |
 ## Tree
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/umasagar-shivanadhula/Leet-Code/tree/master/0032-longest-valid-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
